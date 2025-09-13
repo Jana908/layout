@@ -85,7 +85,7 @@ main .gri-3 .coluna h3{
      color: red;
 }
 main descricao a{
-    background: lightgreen;
+    background: blue;
     color: white;
     padding: 5px 15px;
 }
@@ -126,4 +126,5 @@ footer{
   background: black;
 
 }
+
 
